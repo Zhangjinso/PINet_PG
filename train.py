@@ -1,8 +1,7 @@
 import time
 from options.train_options import TrainOptions
 from data.data_loader import CreateDataLoader
-#from models.PINet14 import create_model  #cvpr origin model
-from models.PINet14_2 import create_model
+from models.PINet20 import create_model
 from util.visualizer import Visualizer
 
 opt = TrainOptions().parse()
