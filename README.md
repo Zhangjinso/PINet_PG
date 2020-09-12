@@ -4,8 +4,8 @@ The code of our PG paper [Human Pose Transfer by Adaptive Hierarchival Deformati
 This is Pytorch implementation for pose transfer on DeepFashion dataset. The code is extramly borrowed from [Pose Transfer](https://github.com/tengteng95/Pose-Transfer). Thanks for their work!
 
 # Requirement
-Python 3
-pytorch 1.2
+*Python 3 \<br>
+*pytorch 1.2 \<br>
 
 # Data
 
