@@ -1,5 +1,5 @@
 # PINet_PG
-Code for our PG paper [Human Pose Transfer by Adaptive Hierarchival Deformation]()
+Code for our PG paper [Human Pose Transfer by Adaptive Hierarchical Deformation]()
 
 This is Pytorch implementation for pose transfer on DeepFashion dataset. The code is extramly borrowed from [Pose Transfer](https://github.com/tengteng95/Pose-Transfer). Thanks for their work!
 
