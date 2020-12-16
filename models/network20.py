@@ -11,8 +11,6 @@ from .spectral import SpectralNorm
 
 import sys
 
-#refine parsing
-#Inception score = (3.2083485, 0.08082621); SSIM score = 0.7749741857614044
 
 def weights_init_normal(m):
     classname = m.__class__.__name__
