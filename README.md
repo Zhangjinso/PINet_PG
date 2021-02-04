@@ -1,19 +1,16 @@
 # PINet_PG
 Code for our PG paper [Human Pose Transfer by Adaptive Hierarchical Deformation](http://cic.tju.edu.cn/faculty/likun/pg2020.pdf)
 
-This is Pytorch implementation for pose transfer on DeepFashion dataset. The code is extramly borrowed from [Pose Transfer](https://github.com/tengteng95/Pose-Transfer). Thanks for their work!
+This is Pytorch implementation for pose transfer on DeepFashion dataset. The code is extremely borrowed from [Pose Transfer](https://github.com/tengteng95/Pose-Transfer). Thanks for their work!
 
 # Requirement
-* Python 3 <br>
-* pytorch 1.2 <br>
-* torchvision <br>
-* numpy <br>
-* scipy <br>
-* scikit-image <br>
-* pillow <br>
-* pandas <br>
-* tqdm <br>
-* dominate <br>
+```
+conda create -n tip python=3.6
+conda install pytorch=1.2 cudatoolkit=10.0 torchvision
+pip install scikit-image pillow pandas tqdm dominate 
+```
+
+
 
 # Data
 
