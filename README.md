@@ -34,13 +34,14 @@ python test.py --dataroot ./fashion_data/ --name fashion_PInet_PG --model PInet 
 If you use this code, please cite our paper.
 
 ```
-@article {10.1111:cgf.14148,
-journal = {Computer Graphics Forum},
-title = {{Human Pose Transfer by Adaptive Hierarchical Deformation}},
-author = {Zhang, Jinsong and Liu, Xingzi and Li, Kun},
-year = {2020},
-ISSN = {1467-8659},
-DOI = {10.1111/cgf.14148}
+@article{pinet,
+	author = {Zhang, Jinsong and Liu, Xingzi and Li, Kun},
+	title = {Human Pose Transfer by Adaptive Hierarchical Deformation},
+	journal = CGF,
+	volume = {39},
+	number = {7},
+	pages = {325-337},
+	year = {2020}
 }
 ```
 
