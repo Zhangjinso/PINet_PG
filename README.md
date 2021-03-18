@@ -37,7 +37,7 @@ If you use this code, please cite our paper.
 @article{pinet,
 	author = {Zhang, Jinsong and Liu, Xingzi and Li, Kun},
 	title = {Human Pose Transfer by Adaptive Hierarchical Deformation},
-	journal = CGF,
+	journal = {Computer Graphics Forum},
 	volume = {39},
 	number = {7},
 	pages = {325-337},
